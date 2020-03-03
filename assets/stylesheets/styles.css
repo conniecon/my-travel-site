@@ -1,0 +1,56 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#welcome {
+    text-align: center;
+    background-color: #444;
+    color: white;
+    height: 200px;
+    padding: 25px;
+}
+h2 {
+    padding: 0 25px 0 0; 
+}
+.linksOfDestinations{
+    background-color: lightgray;
+    color: #333;
+    height: 200px;
+}
+li {
+    list-style-type: none;
+    float: left;
+}
+.link {
+    text-align: center;
+}
+p {
+    
+    text-align: center;
+    color: goldenrod;
+}
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+
+}
+.email {
+    clear: both;
+}
+table {
+     clear: both;
+}
+
+img {
+    width: 175px;
+    padding: 5px;
+    
+}
+.email a {
+    color: purple;
+}
